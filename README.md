@@ -1,5 +1,10 @@
 #  Hi, I'm Halim Dakir! ![Profile Views](https://komarev.com/ghpvc/?username=halimdakir&color=blue)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/halimdakir/&title=Profile%20Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/halimdakir?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/halimdakir?style=social" alt="GitHub Stars" />
+</p>
 
 Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
 
