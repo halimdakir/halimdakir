@@ -1,4 +1,6 @@
 #  Hi, I'm Halim Dakir! ![Profile Views](https://komarev.com/ghpvc/?username=halimdakir&color=blue)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/halimdakir/&title=Profile%20Views)
+
 Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
 
 ---
