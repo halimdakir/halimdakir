@@ -1,6 +1,5 @@
 #  Hi, I'm Halim Dakir!
-Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
-
+---
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
@@ -15,7 +14,7 @@ Software Engineer with solid experience in building scalable and efficient softw
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail" alt="Email Me"/>
   </a>
 </p>
-
+Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
 ---
 
 ## Technologies & Tools
