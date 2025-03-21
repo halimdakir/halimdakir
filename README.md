@@ -1,20 +1,21 @@
 #  Hi, I'm Halim Dakir!
+
 <p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
   
   <!-- LinkedIn Badge (Clickable) -->
   <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
   </a>
 
   <!-- Email Badge (Clickable) -->
   <a href="mailto:hada24@student.bth.se">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail" alt="Email Me"/>
   </a>
-
-   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue"/>
-  
 </p>
+
+
 Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
 
 ---
