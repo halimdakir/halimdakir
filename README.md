@@ -1,5 +1,4 @@
 #  Hi, I'm Halim Dakir!
----
 <p align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
