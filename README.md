@@ -1,4 +1,4 @@
-#  Hi, I'm Halim Dakir! ![ ](https://komarev.com/ghpvc/?username=halimdakir&color=blue)
+#  Hi, ![I'm Halim Dakir!](https://komarev.com/ghpvc/?username=halimdakir&color=blue)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/halimdakir/&title=Profile%20Views)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
