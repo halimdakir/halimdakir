@@ -1,8 +1,6 @@
 #  Hi, I'm Halim Dakir!
 
 <p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
   
   <!-- LinkedIn Badge (Clickable) -->
   <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
@@ -13,6 +11,9 @@
   <a href="mailto:hada24@student.bth.se">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-green?logo=gmail" alt="Email Me"/>
   </a>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Views" />
 </p>
 
 
