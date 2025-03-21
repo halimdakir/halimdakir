@@ -57,4 +57,5 @@ Software Engineer with solid experience in building scalable and efficient softw
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=halimdakir&theme=flat&no-frame=true&margin-w=5)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=halimdakir&theme=github-light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=halimdakir&theme=github-light)
+
