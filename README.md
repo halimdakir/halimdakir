@@ -1,5 +1,6 @@
 #  Hi, I'm Halim Dakir!
 <p align="center">
+  
   <!-- LinkedIn Badge (Clickable) -->
   <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
@@ -12,6 +13,7 @@
 
    <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=halimdakir&color=blue" alt="Profile Views" />
+  
 </p>
 Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
 
