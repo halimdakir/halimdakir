@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Halim Dakir!
 💻 **Software Engineer** with solid experience in building scalable and efficient software solutions.  
-🎓 Currently pursuing an **MSc in Computer Science in Sweden**, focusing on **AI & Machine Learning Engineering** along with **Software Engineering**, to expand expertise and stay at the forefront of technology.
+🎓 Currently pursuing an **MSc in Computer Science**, focusing on **AI & Machine Learning Engineering** along with **Software Engineering**, to expand expertise and stay at the forefront of technology.
 
 ---
 
