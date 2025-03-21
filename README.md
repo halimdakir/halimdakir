@@ -72,5 +72,4 @@
 ## 📊 GitHub Stats & Language Graphs
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimdakir&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimdakir&layout=compact&theme=radical)
