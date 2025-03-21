@@ -53,6 +53,7 @@ Software Engineer with solid experience in building scalable and efficient softw
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimdakir&show_icons=true&theme=github_light)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimdakir&layout=compact&theme=github_light)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=halimdakir&theme=github-light&hide_border=true)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=halimdakir&theme=github-light)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=halimdakir&theme=github-light&hide_border=true)
