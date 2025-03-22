@@ -1,4 +1,4 @@
-#  Hi, I'm Halim Dakir!
+#  Hi, I'm Halim!
 
 <p align="center">
   
@@ -17,7 +17,7 @@
 </p>
 
 
-Software Engineer with solid experience in building scalable and efficient software solutions. Currently pursuing an MSc in Computer Science, focusing on AI & Machine Learning Engineering along with Software Engineering.
+Software Engineer who enjoys solving practical problems and building projects that actually work. I’m always curious and eager to learn new technologies.
 
 ---
 
