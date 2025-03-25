@@ -32,7 +32,7 @@ Software Engineer who enjoys solving practical problems and building projects th
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-239120?style=flat&logo=rust&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ---
