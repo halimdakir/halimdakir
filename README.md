@@ -32,6 +32,7 @@ Software Engineer who enjoys solving practical problems and building projects th
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=rust&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ---
@@ -47,16 +48,6 @@ Software Engineer who enjoys solving practical problems and building projects th
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/-Liquibase-2962FF?style=flat)
 ![Flyway](https://img.shields.io/badge/-Flyway-CC0000?style=flat)
----
-###  Software Quality & Testing
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat)
-![Mockito](https://img.shields.io/badge/-Mockito-FF9800?style=flat)
-![TDD](https://img.shields.io/badge/-TDD-FF0000?style=flat)
----
-###  Shells & Scripting
-![Git Bash](https://img.shields.io/badge/-Git_Bash-4F4F4F?style=flat&logo=git)
-![Linux Bash](https://img.shields.io/badge/-Linux_Bash-121011?style=flat&logo=linux)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell)
 
 ---
 
