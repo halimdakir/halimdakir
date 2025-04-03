@@ -17,7 +17,7 @@
 </p>
 
 
-Software Engineer who enjoys solving practical problems and building projects that actually work. I’m always curious and eager to learn new technologies.
+Software Engineer who enjoys solving practical problems and building projects. I’m always curious and eager to learn new technologies.
 
 ---
 
