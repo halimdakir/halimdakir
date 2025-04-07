@@ -2,8 +2,8 @@
 
   <!-- <p align="center">
   
-  <!-- LinkedIn Badge (Clickable) -->
-  <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
+  LinkedIn Badge (Clickable) -->
+    <!-- <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile"/>
   </a>
 
