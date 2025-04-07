@@ -1,6 +1,6 @@
 #  Hi, I'm Halim!
 
-<p align="center">
+  <!-- <p align="center">
   
   <!-- LinkedIn Badge (Clickable) -->
   <a href="https://www.linkedin.com/in/halim-dakir-785587190/" target="_blank">
@@ -55,4 +55,4 @@ Software Engineer who enjoys solving practical problems and building projects. I
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimdakir&show_icons=true&theme=github_light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimdakir&layout=compact&theme=github_light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimdakir&layout=compact&theme=github_light) -->
